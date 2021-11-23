@@ -1,2 +1,2 @@
-This is my journey to practice Python problems. I am trying to practice python everyday from differenmt sources.
-The idea is to practice questionm all sites daily and make a conolidated list of my practice.
+This is repoistery to all my practised python problems. This is a collection of all my favourite problems starting fron low difficulty to high difficulty.
+The aim to if this repositiry is to make these problems available to everyone who is new of programmimng world. These questions conatins all necessary basic commands, alongs with problems that will help to base logic.
