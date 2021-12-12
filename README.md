@@ -14,7 +14,7 @@ Finding the right question for the coding practice can be time-consuming and one
 
 ## Examples of the few of the problems from the collection:
 
-### 1. Remove repeating chacaters form following string x = "Python is the best programming language"
+#### 1. Remove repeating chacaters form following string x = "Python is the best programming language"
 ```
 x = "Python is the best programming language"
 x = x.lower()
