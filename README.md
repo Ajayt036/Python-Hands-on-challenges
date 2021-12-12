@@ -97,6 +97,5 @@ for i in list(range(0,l+1)):
         
 print(coodrinates)
 ```
-![image](https://user-images.githubusercontent.com/64645859/145696133-a5e8bace-3964-49c4-a607-62026f078903.png)
-
+![image](https://user-images.githubusercontent.com/64645859/145696145-7d1e9b6d-d43e-4b92-9278-540a8c6aa817.png)
 
