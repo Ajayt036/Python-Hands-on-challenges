@@ -32,7 +32,7 @@ print(y)
 ![image](https://user-images.githubusercontent.com/64645859/145695710-e32cbb34-8877-490b-a2c1-0fed53384918.png)
 
 
-### 2. Write a program to iterate the first 10 numbers and in each iteration, print the sum of the current and previous number
+#### 2. Write a program to iterate the first 10 numbers and in each iteration, print the sum of the current and previous number
 ```
 x= list(range(0,10))
 print("Printing current and previous number sum in a range(10)")
@@ -46,7 +46,7 @@ for i in x:
   ![image](https://user-images.githubusercontent.com/64645859/145696002-39a97021-ac60-4cc6-81e7-6c3cdf4f208b.png)
 
 
-### 3. Finding the type of a character in a string - How many numbers, letters and punctuation are there in x = "Python3.7"
+#### 3. Finding the type of a character in a string - How many numbers, letters and punctuation are there in x = "Python3.7"
 ```
 x = "Python3.7"
 
@@ -69,5 +69,34 @@ print(punctuations)
 ```
 ![image](https://user-images.githubusercontent.com/64645859/145696049-13282879-6f13-4c9d-b67b-269f20c4aac3.png)
 
+#### 4.General output with input command - Create a General Table for any interger.
+```
+digit = int(input("Please write a number"))
+for i in range(1,11):
+    print(digit,"*",i, "=" ,digit*i)
+```
+![image](https://user-images.githubusercontent.com/64645859/145696091-76bebe27-b37b-43c5-81a9-739d58d83b9a.png)
+
+#### 5. Length, breadth, and height of a cuboid are 2,3,4 placed at origin. Make a list of all possible integer coordinate points first with list comprehension method and then loop method.
+```
+l=2
+b=3
+h=4
+
+coodrinates = [[i,j,k] for i in list(range(0,l+1)) for j in list(range(0,b+1)) for k in list(range(0,h+1))]
+print(coodrinates)
+
+#OR By using loop:
+
+coodrinates = []
+
+for i in list(range(0,l+1)):
+    for j in list(range(0,b+1)):
+        for k in list(range(0,h+1)):
+            coodrinates.append([i,j,k])
+        
+print(coodrinates)
+```
+![image](https://user-images.githubusercontent.com/64645859/145696133-a5e8bace-3964-49c4-a607-62026f078903.png)
 
 
