@@ -66,8 +66,9 @@ for i in x:
 print(Letters)
 print(numbers)
 print(punctuations)
-```
+
 ![image](https://user-images.githubusercontent.com/64645859/145696049-13282879-6f13-4c9d-b67b-269f20c4aac3.png)
+```
 
 #### 4.General output with input command - Create a General Table for any interger.
 ```
