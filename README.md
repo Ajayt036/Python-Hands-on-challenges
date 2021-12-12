@@ -76,7 +76,7 @@ digit = int(input("Please write a number"))
 for i in range(1,11):
     print(digit,"*",i, "=" ,digit*i)
 ```
-![image](https://user-images.githubusercontent.com/64645859/145696091-76bebe27-b37b-43c5-81a9-739d58d83b9a.png)
+![image](https://user-images.githubusercontent.com/64645859/145696171-71fb3493-dd95-4b53-bcda-509dfa847726.png)
 
 #### 5. Length, breadth, and height of a cuboid are 2,3,4 placed at origin. Make a list of all possible integer coordinate points first with list comprehension method and then loop method.
 ```
