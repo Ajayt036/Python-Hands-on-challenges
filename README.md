@@ -1,4 +1,4 @@
-# Python-Practice-Problems
+# Python-Practice-Problems:
 
 Python Practice problems repository is a collection of all problems that I have solved to build my foundation of the language and logic. The aim to make this repository is to collect all the fundamental commands and concepts learned in python such as list comprehension, Array, etc, and use them on basic problems such as adding lists, manipulating strings and making patterns, etc. 
 
