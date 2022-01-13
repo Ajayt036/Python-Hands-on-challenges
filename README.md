@@ -1,6 +1,7 @@
-# Daily Code Challenges:
+# Python Hands on challenges:
+:
 
-Daily Code Challenges is a repository is a collection of all problems that I have solved to build my foundation of the language and logic. The aim to make this repository is to collect all the fundamental commands and concepts learned in python such as list comprehension, Array, etc, and use them on basic problems such as adding lists, manipulating strings and making patterns, etc. 
+Python Hands on challenges is a repository is a collection of all problems that I have solved to build my foundation of the language and logic. The aim to make this repository is to collect all the fundamental commands and concepts learned in python such as list comprehension, Array, etc, and use them on basic problems such as adding lists, manipulating strings and making patterns, etc. 
 
 ### AIM:
 Finding the right question for the coding practice can be time-consuming and one has to go through multiple platforms to find them. This collection is composed of problems from multiple platforms such as Hacker Rank, Leet code, Kaggle, etc. Tough questions have been divided into simple two or three-part problems for quick learning. Anyone with zero to intermediate experience in python is welcome to try these questions. 
