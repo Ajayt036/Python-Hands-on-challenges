@@ -11,6 +11,11 @@ Finding the right question for the coding practice can be time-consuming and one
 3. Kaggle
 4. W3 School
 
+### Libraries Used:
+
+1. Import String
+2. Import Maths
+
 ## Examples of the few of the problems from the collection:
 
 #### 1. Remove repeating chacaters form following string x = "Python is the best programming language"
