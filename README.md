@@ -12,9 +12,15 @@ Finding the right question for the coding practice can be time-consuming and one
 4. W3 School
 
 ### Libraries Used:
-
-1. Import String
-2. Import Maths
+```
+import maths
+import string
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import scipy.stats as stats
+```
 
 ## Examples of the few of the problems from the collection:
 
