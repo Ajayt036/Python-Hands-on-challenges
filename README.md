@@ -15,6 +15,7 @@ Finding the right question for the coding practice can be time-consuming and one
 ```
 import maths
 import string
+import random
 import pandas as pd
 import numpy as np
 import seaborn as sns
