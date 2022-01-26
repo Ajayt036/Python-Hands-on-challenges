@@ -18,6 +18,7 @@ import string
 import random
 import itertools as it
 import pandas as pd
+import pandas_datareader.data as web
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
