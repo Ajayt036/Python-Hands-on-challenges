@@ -15,6 +15,7 @@ Finding the right question for the coding practice can be time-consuming and one
 ```
 urllib
 import re
+import mechanicalsoup
 import maths
 import string
 import random
