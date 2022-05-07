@@ -33,7 +33,7 @@ import pandas_datareader.data as web
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-import scipy.stats as stats
+import scipy.stats as stats]
 ```
 
 ## Examples of the few of the problems from the collection:
