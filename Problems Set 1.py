@@ -3,7 +3,6 @@
 #Answer:
 x  = "Python is the best programming language"
 x = x.lower()
-
 y = ""
 for i in x:
     if i not in y:
@@ -14,9 +13,7 @@ print(y)
 
 
 
-
 #Q2. Reverse a string | "Ajay Thakur"
-
 #Answer:
 x = "Ajay Thakur"
 print(x[::-1])
