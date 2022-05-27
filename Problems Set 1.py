@@ -1,5 +1,4 @@
 #Q1. Remove repeating chacaters form following string |  x = "Python is the best programming language"
-
 #Answer:
 x  = "Python is the best programming language"
 x = x.lower()
