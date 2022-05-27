@@ -1,13 +1,25 @@
-#Questiion 1
-print("1. How much is 2+2")
-print(2+2)
+#Q1. Remove repeating chacaters form following string |  x = "Python is the best programming language"
 
-#Questiion 2
-print("2. How much is 2+3")
-print(2+3)
+#Answer:
+x  = "Python is the best programming language"
+x = x.lower()
 
-print("Yes")
-  
+y = ""
+for i in x:
+    if i not in y:
+        y=y + i
+    else:
+        pass
+print(y)
+
+
+
+
+#Q2. Reverse a string | "Ajay Thakur"
+
+#Answer:
+x = "Ajay Thakur"
+print(x[::-1])
 
 
 
